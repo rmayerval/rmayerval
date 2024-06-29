@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Cristopher 👋
 
-<!--
-**rmayerval/rmayerval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a dedicated industrial engineering student with a passion for coding and continuous learning. H
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 **Profession:** Industrial Engineering Student
+- 🌱 **Currently Learning:** Python
+- 🗣 **Language Practice:** Improving my English speaking skills
+
+## My Interests
+
+- 🖥️ **Programming:** Currently focused on learning Python and building projects to enhance my coding skills.
+- 📚 **Continuous Learning:** Always eager to learn new things and take on new challenges.
